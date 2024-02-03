@@ -29,7 +29,7 @@ while(1) :
 
 cv.destroyAllWindows()  '''
 
-'''
+
 #on/off switch
 import numpy as np 
 import cv2 as cv 
