@@ -65,6 +65,6 @@ while(1) :
     else:
         img[:] = [b, g, r]
 
-cv.destroyAllWindows() '''
+cv.destroyAllWindows() 
 
 
